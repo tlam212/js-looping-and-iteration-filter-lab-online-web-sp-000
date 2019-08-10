@@ -11,4 +11,6 @@ function fuzzyMatch (drivers, letter) {
   });
 }
 
-function matchName()
+function matchName(drivers, name){
+  
+}
